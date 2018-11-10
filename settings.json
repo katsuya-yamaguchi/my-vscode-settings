@@ -1,0 +1,14 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "off",
+    "workbench.editor.enablePreview": false,
+    "editor.tabSize": 2,
+    "workbench.editor.openSideBySideDirection": "down",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    "emmet.includeLanguages" : {
+        "erb": "html"
+    }
+}
